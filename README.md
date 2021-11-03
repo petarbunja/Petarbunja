@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter26092002
 - 👀 I’m interested in Engineering and using Software to model the World
-- 🌱 I’m currently learning Python and Mechanical Engineering
+- 🌱 I’m currently learning Python and Electrical Engineering
 - 💞️ I’m looking to collaborate on Automotive Industry related Projects 
 - 📫 How to reach me: Intstagram - petar_bunjo 
 
